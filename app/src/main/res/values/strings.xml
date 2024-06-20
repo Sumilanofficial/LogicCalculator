@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">intentbundlebinding</string>
+    <string name="number">Number</string>
+    <string name="mul">*</string>
+    <string name="divide">/</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="Next">Next</string>
+    <string name="result">Result</string>
+</resources>
